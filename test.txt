@@ -1,1 +1,1 @@
-Hello. This is version of file fixed in main.
+Hello. This is version of file fixed in patch.
